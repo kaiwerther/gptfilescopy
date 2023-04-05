@@ -7,7 +7,7 @@ on:
       - reopened
       - synchronize
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   release:
