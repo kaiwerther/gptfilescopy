@@ -8,7 +8,7 @@
     "url": "git+https://github.com/kaiwerther/gptfilescopy.git"
   },
   "bin": {
-    "gptfilescopy": "prepareFilesForGpt.js"
+    "gptfilescopy": "prepareFilesForGpt.mjs"
   },
   "keywords": [
     "gpt",
