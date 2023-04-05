@@ -1,5 +1,5 @@
 {
-  "name": "gptfilescopy",
+  "name": "@kaiwerther/gptfilescopy",
   "version": "1.0.0",
   "description": "used for collecting files in a format where you can easily paste it into chatgpt",
   "main": "prepareFilesForGpt.js",
