@@ -3,15 +3,12 @@
   "version": "1.0.0",
   "description": "used for collecting files in a format where you can easily paste it into chatgpt",
   "main": "prepareFilesForGpt.js",
-  "scripts": {
-    "prepare": "noe prepareFilesForGpt.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kaiwerther/gptfilescopy.git"
   },
   "bin": {
-    "gptfilescopy": "prepareFilesForGpt.js"
+    "gptfilescopy": "prepareFilesForGpt.mjs"
   },
   "keywords": [
     "gpt",
