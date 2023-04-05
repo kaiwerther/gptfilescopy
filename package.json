@@ -1,0 +1,33 @@
+{
+  "name": "gptfilescopy",
+  "version": "1.0.0",
+  "description": "used for collecting files in a format where you can easily paste it into chatgpt",
+  "main": "prepareFilesForGpt.js",
+  "scripts": {
+    "prepare": "noe prepareFilesForGpt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiwerther/gptfilescopy.git"
+  },
+  "bin": {
+    "gptfilescopy": "prepareFilesForGpt.js"
+  },
+  "keywords": [
+    "gpt",
+    "files",
+    "openai",
+    "chatgpt",
+    "collect",
+    "files"
+  ],
+  "author": "Kai Werther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaiwerther/gptfilescopy/issues"
+  },
+  "homepage": "https://github.com/kaiwerther/gptfilescopy#readme",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
